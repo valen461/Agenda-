@@ -33,5 +33,5 @@
 21:00;Copa del Rey 1ª Ronda;CD Cuarte;Racing Ferrol;TVG2 (Galicia);Aragón TV;
 21:00;Copa del Rey 1ª Ronda;CD Estepona;Málaga;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 21:00;Copa del Rey 1ª Ronda;UD Llanera;Cultural Leonesa;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
-21:00;WTA Torneo de Mérida 2ª Ronda;N. Stojanovic;M. Stakusic;WTA TV;DAZN (Regístrate);
-22:30;WTA Torneo de Mérida 2ª Ronda;E. Jacquemot;Z. Sonmez;WTA TV;DAZN (Regístrate);
+21:15;WTA Torneo de Mérida 2ª Ronda;N. Stojanovic;M. Stakusic;WTA TV;DAZN (Regístrate);
+22:45;WTA Torneo de Mérida 2ª Ronda;E. Jacquemot;Z. Sonmez;WTA TV;DAZN (Regístrate);
